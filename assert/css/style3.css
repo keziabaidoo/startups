@@ -1,0 +1,13 @@
+.tab{
+	background-color: grey;
+}
+
+.clear-padding{
+	padding-right: 0px;
+	padding-left: 0px;
+
+}
+
+.btn{
+	border-radius: 0px;
+} 

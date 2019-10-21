@@ -1,0 +1,36 @@
+.navbar-default{
+	height: 99px;
+	background-color: brown;
+	opacity: 5px;
+}
+
+.hm-black-strong{
+	background-color: brown;
+	height:900px;
+     color: white;
+
+}
+
+
+.footer{
+	background-color: brown;
+	line-height: 60px;
+	color: white;
+}
+
+.text-content{
+	background-color:brown;
+	color: white;
+	line-height: 30px;
+}
+
+nav a{
+	color: white;
+	font-size: 120%;
+}
+
+nav a:hover{
+	background-color:  #e36b6b;
+	font-size: 10px;
+}
+

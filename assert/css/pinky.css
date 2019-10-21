@@ -1,0 +1,28 @@
+.navbar-default{
+	background-color: brown;
+	height:80px;
+
+}
+
+
+
+.btn-default{
+	background-color: blue;
+	color: #d9edf7
+}
+
+ .footer{
+	background-color: brown;
+	color: white;
+	line-height: 50px;
+}
+
+
+nav a{
+	color: white;
+	font-size: 120%;
+}
+
+nav a:hover{
+	background-color:  #e36b6b;
+}
